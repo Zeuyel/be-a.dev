@@ -5,7 +5,6 @@
     "email": "wyz@kun.edu.cn"
   },
   "record": {
-    "CNAME": "wyz.be-a.dev",
     "A": ["1.94.32.79"]
   },
   "proxied": true
